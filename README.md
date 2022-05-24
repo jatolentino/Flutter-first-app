@@ -23,7 +23,8 @@ samples, guidance on mobile development, and a full API reference.
 ### 2 On VS
 Version control icon > Initialize Repository, then add a commit message like `first commit`
 
-### 3 Add a remote name via terminal or with `CTRL+SHIFT+P` and the option `Add remote from GitHub` (input the remote's name solely)
+### 3 Add a remote & github link
+- Add remote name via the terminal like or with `CTRL+SHIFT+P` and the option `Add remote from GitHub` (input the remote's name solely)
 	```bash
 	git remote add origin 'girhubrepourl'
 	git push --set-upstream origin master
