@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-### 1 configure VS
+### 1 Configure VS
   ```bash
   git config --global user.email "youremail@mail.com"
   git config --global user.name "yourgithubname"
